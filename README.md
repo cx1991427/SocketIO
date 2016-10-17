@@ -1,2 +1,2 @@
 # SocketIO
-example from Socket Io Official Website
+Example from Socket.IO  Official Website
